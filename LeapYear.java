@@ -17,7 +17,7 @@ public class LeapYear {
 			}
 		}
 		else {
-			System.out.println("INVALID YEAR");
+			System.out.println("**INVALID YEAR**");
 		}
 	}
 }
