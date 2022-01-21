@@ -11,6 +11,6 @@ public class HarmonicNum {
 			double reciprocal = 1 / i;
 			result = result + reciprocal;
 		}
-			System.out.println("Result : "+result);
+		System.out.println("Result : "+result);
 	}
 }
